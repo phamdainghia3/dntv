@@ -17,7 +17,7 @@ import { GoogleAnalytics } from 'nextjs-google-analytics'
 const roboto = Roboto({
 	subsets: ['latin'],
 	display: 'swap',
-	weight: ['300', '400', '500', '600', '700'],
+	weight: '400',
 })
 
 export default function MyApp({ Component, pageProps }: AppProps) {
