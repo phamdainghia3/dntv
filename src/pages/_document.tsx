@@ -19,7 +19,7 @@ export default class Document extends NextDocument {
 	render() {
 		return (
 			<Html
-				lang="en"
+				lang="vi"
 				className="[--scroll-mt:9.875rem] lg:[--scroll-mt:6.3125rem]"
 				dir={process.env.NEXT_PUBLIC_SITE_DIRECTION}
 			>
