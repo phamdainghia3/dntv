@@ -44,9 +44,9 @@
 		"site_zip": "Your Zip",
 		"site_country": "Your Country",
 		"site_url": "https://www.yoursite.com",
-		"site_logo": "/logo.png",
-		"site_logo_light": "/logo-light.png",
-		"site_favicon": "/favicon.png"
+		"site_logo": "/dntv-logo.png",
+		"site_logo_light": "/dntv-logo.png",
+		"site_favicon": "/dntv-logo.png"
 	},
 	"site_socials": [
 		{
