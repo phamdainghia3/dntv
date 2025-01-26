@@ -18,15 +18,15 @@ const SectionBecomeAnAuthor: FC<SectionBecomeAnAuthorProps> = ({
 		>
 			<div className="mb-14 flex-shrink-0 lg:mb-0 lg:mr-10 lg:w-2/5">
 				<span className="text-xs font-medium uppercase tracking-wider text-neutral-400">
-					supper change your planning powers
+				Thay đổi khả năng lập kế hoạch của bạn
 				</span>
 				<h2 className="mt-3 text-3xl font-semibold sm:text-4xl">
-					Become an author and share your great stories
+				Trở thành tác giả và chia sẻ những câu chuyện tuyệt vời của bạn
 				</h2>
-				<span className="mt-8 block text-neutral-500 dark:text-neutral-400">
-					Become an author you can earn extra income by writing articles. Read
-					and share new perspectives on just about any topic. Everyone’s
-					welcome.
+				<span className="mt-8 block text-neutral-500 dark:text-neutral-400">					
+					Trở thành tác giả bạn có thể kiếm thêm thu nhập bằng cách viết bài. Đọc
+					và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. của mọi người
+					Chào mừng.
 				</span>
 				<ButtonPrimary className="mt-8">Become an author</ButtonPrimary>
 			</div>
