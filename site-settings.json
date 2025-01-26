@@ -4,46 +4,46 @@
 	"mailpoet_list_id": "3",
 	"subcription_widget": {
 		"enable": true,
-		"title": "Stay up to date",
-		"description": "Get notified when I publish something new, and unsubscribe at any time.",
-		"placeholder": "Enter your email address",
-		"success_message": "Thank you for subscribing. You're in!",
-		"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
+		"title": "Cập nhật tin mới",
+		"description": "Nhận thông báo khi tôi xuất bản nội dung mới và hủy đăng ký bất kỳ lúc nào.",
+		"placeholder": "Nhập địa chỉ email của bạn",
+		"success_message": "Cảm ơn bạn đã đăng ký!",
+		"error_message": "Đã xảy ra lỗi. Vui lòng thử lại. "
 	},
 	"newsletter_section": {
 		"enable": true,
-		"title": "Join our newsletter 🎉",
-		"description": "Read and share new perspectives on just about any topic. Everyone’s welcome.",
+		"title": "Tham gia bản tin mới nhất 🎉",
+		"description": "Đọc và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. Mọi người đều được chào đón.",
 		"right_image": "/images/SVG-subcribe2.png",
-		"features_list": ["Create a free account.", "Write your stories."]
+		"features_list": ["Tạo một tài khoản miễn phí.", "Viết câu chuyện của bạn."]
 	},
 	"top_banner": {
-		"enable": false,
-		"description": "-50% Intro price for the next 72 hours only!.",
+		"enable": true,
+		"description": "Đăng ký kênh YouTube để nhận video mới nhất",
 		"end_link": {
-			"url": "https://themeforest.net/item/ncmaz-nextjs-headless-wordpress-blog-magazine/47815656",
-			"text": "Buy now  →",
+			"url": "https://www.youtube.com/@dntv.review?sub_confirmation=1",
+			"text": "Đăng ký ngay  →",
 			"new_tab": true
 		}
 	},
 	"top_category_section": {
 		"enable": true,
-		"title": "Discover top 10 categories",
-		"sub_title": "Let's explore the most popular categories"
+		"title": "Khám phá 10 danh mục hàng đầu",
+		"sub_title": "Hãy cùng khám phá các danh mục phổ biến nhất"
 	},
 	"site_info": {
-		"site_title": "Ncmaz Nextjs Blog",
-		"site_description": "Ncmaz Nextjs Blog headless WordPress",
-		"site_keywords": "Ncmaz Nextjs Blog",
-		"site_author": "ChisNghiax",
-		"site_email": "Your Email",
-		"site_phone": "Your Phone",
-		"site_address": "Your Address",
-		"site_city": "Your City",
-		"site_state": "Your State",
-		"site_zip": "Your Zip",
-		"site_country": "Your Country",
-		"site_url": "https://www.yoursite.com",
+		"site_title": "DNTV Blog",
+		"site_description": "Cập nhật thông tin các sản phẩm công nghệ mới nhất",
+		"site_keywords": "DNTV, review sản phẩm công nghệ",
+		"site_author": "Phạm Đại Nghĩa",
+		"site_email": "phamdainghia.official@gmail.com",
+		"site_phone": "0858088050",
+		"site_address": "Đồng Nai",
+		"site_city": "Đồng Nai",
+		"site_state": "Đồng Nai",
+		"site_zip": "76411",
+		"site_country": "Việt Nam",
+		"site_url": "https://dntv.vn",
 		"site_logo": "/dntv-logo.png",
 		"site_logo_light": "/dntv-logo.png",
 		"site_favicon": "/dntv-logo.png"
@@ -53,25 +53,25 @@
 			"name": "facebook",
 			"url": "https://www.facebook.com/phamdainghia.official",
 			"icon": "/images/socials/facebook.svg",
-			"description": "Follow us on Facebook"
+			"description": "Trang facebook DNTV"
 		},
 		{
-			"name": "twitter",
-			"url": "https://twitter.com/yourtwitterpage",
-			"icon": "/images/socials/x-twitter.svg",
-			"description": "Follow us on Twitter"
+			"name": "YouTube",
+			"url": "https://www.youtube.com/@dntv.review",
+			"icon": "/images/socials/youtube.svg",
+			"description": "Kênh YouTube DNTV"
 		},
 		{
-			"name": "github",
-			"url": "https://www.github.com/yourmediumpage",
-			"icon": "/images/socials/github.svg",
-			"description": "Follow us on Github"
+			"name": "instagram",
+			"url": "https://www.instagram.com/phamdainghia.official",
+			"icon": "/images/socials/instagram.svg",
+			"description": "Trang instagram DNTV"
 		},
 		{
 			"name": "tiktok",
-			"url": "https://www.tiktok.com/yourtiktokpage",
+			"url": "https://www.tiktok.com/phamdainghia.official",
 			"icon": "/images/socials/tiktok.svg",
-			"description": "Follow us on Tiktok"
+			"description": "Kênh Tiktok DNTV"
 		}
 	],
 	"site_header": {
@@ -82,7 +82,7 @@
 		}
 	},
 	"site_footer": {
-		"all_rights_reserved_text": "© 2024 BooliiTheme Company, Inc. All rights reserved."
+		"all_rights_reserved_text": "© 2025 Bản quyền bài viết bởi DNTV"
 	},
 	"single_page": {
 		"show_view_cout": true,
@@ -91,19 +91,19 @@
 	"search_page": {
 		"recommended_searches": {
 			"enable": true,
-			"title": "Recommended searches",
+			"title": "Tìm kiếm được đề xuất",
 			"items": [
 				{
-					"title": "Programming",
-					"url": "/search/posts/programming"
+					"title": "Công nghệ",
+					"url": "/search/posts/công%20nghệ"
 				},
 				{
-					"title": "Design",
-					"url": "/search/posts/design"
+					"title": "Đồ chơi mô hình",
+					"url": "/search/posts/đồ%20chơi%20mô%20hình"
 				},
 				{
-					"title": "Technology",
-					"url": "/search/posts/technology"
+					"title": "Camera giám sát",
+					"url": "/search/posts/camera"
 				}
 			]
 		},
@@ -131,23 +131,23 @@
 		"post_options": [
 			{
 				"name": "Schedule_Publication",
-				"label": "Schedule Publication",
+				"label": "Lịch xuất bản",
 				"enable": true
 			},
 			{
 				"name": "Post_Format",
-				"label": "Post Format",
+				"label": "Định dạng bài đăng",
 				"enable": true,
 				"options": [
 					{
 						"name": "standard",
 						"enable": true,
-						"label": "Standard"
+						"label": "Tiêu chuẩn"
 					},
 					{
 						"name": "gallery",
 						"enable": true,
-						"label": "Gallery"
+						"label": "Hình ảnh"
 					},
 					{
 						"name": "video",
@@ -163,109 +163,109 @@
 			},
 			{
 				"name": "Allow_Comments",
-				"label": "Allow Comments",
+				"label": "Cho phép bình luận",
 				"enable": true
 			},
 			{
 				"name": "Post_Style",
-				"label": "Post Style",
+				"label": "Kiểu đăng bài",
 				"enable": true
 			},
 			{
 				"name": "Show_Right_Sidebar",
-				"label": "Show Right Sidebar",
+				"label": "Hiển thị thanh bên phải",
 				"enable": true
 			}
 		]
 	},
 	"resetPassword_page": {
-		"title": "Lost your password?",
-		"sub_title": "Enter your email below to reset your password.",
+		"title": "Bạn bị mất mật khẩu?",
+		"sub_title": "Nhập email của bạn dưới đây để thiết lập lại mật khẩu của bạn.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Các bạn nhớ theo dõi kênh YouTube để cập nhật video mới nhất nhé!",
+			"author": "DNTV admin"
 		}
 	},
 	"signUp_page": {
-		"title": "Create an account",
-		"sub_title": "Enter your email below to create your account.",
+		"title": "Tạo một tài khoản",
+		"sub_title": "Nhập email của bạn dưới đây để tạo tài khoản của bạn.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Các bạn nhớ theo dõi kênh YouTube để cập nhật video mới nhất nhé!",
+			"author": "DNTV admin"
 		}
 	},
 	"signIn_page": {
-		"title": "Sign in to your account",
-		"sub_title": "Enter your email below to sign in to your account.",
+		"title": "Đăng nhập vào tài khoản của bạn",
+		"sub_title": "Nhập email của bạn dưới đây để đăng nhập vào tài khoản của bạn.",
 		"blockquote": {
-			"text": "This theme has saved me countless hours of work and helped me deliver stunning designs to my clients faster than ever before.",
-			"author": "Chis agency"
+			"text": "Các bạn nhớ theo dõi kênh YouTube để cập nhật video mới nhất nhé!",
+			"author": "DNTV admin"
 		},
 		"lost_password": {
 			"is_use_lostpassword_default_of_wp": false,
-			"message": "Lost password not implemented yet! Please contact admmin for support.",
-			"url_lostpassword_default_of_wp": "https://yourwebsite.com/wp-login.php?action=lostpassword"
+			"message": "Mất mật khẩu chưa được thực hiện! Vui lòng liên hệ admin để được hỗ trợ.",
+			"url_lostpassword_default_of_wp": "https://blog.dntv.vn/wp-login.php?action=lostpassword"
 		}
 	},
 	"mobile_nav_sidebar": {
-		"description": "Discover the most outstanding articles on all topics of life. Write your stories and share them with the community. "
+		"description": "Khám phá những bài viết nổi bật nhất về mọi chủ đề của cuộc sống. Viết câu chuyện của bạn và chia sẻ chúng với cộng đồng."
 	},
 	"help_page": {
 		"uri": "/helps",
-		"title": "Helps",
-		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
+		"title": "Giúp đỡ",
+		"sub_title": "Đọc và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. Mọi người đều được chào đón."
 	},
 	"contact_page": {
 		"enable": true,
-		"title": "Get in touch",
-		"sub_title": "We’d love to hear from you. Fill out the form below to get in touch with us.",
+		"title": "Hãy liên lạc",
+		"sub_title": "Chúng tôi muốn nghe ý kiến ​​từ bạn. Điền vào mẫu dưới đây để liên lạc với chúng tôi.",
 		"form": {
-			"success_message": "🎉 Thank you for your message. We will get back to you soon.",
-			"error_message": "Something went wrong. Please try again. If the problem persists, you can contact me."
+			"success_message": "🎉 Cảm ơn bạn đã tin nhắn của bạn. Chúng tôi sẽ liên hệ lại với bạn sớm.",
+			"error_message": "Đã xảy ra lỗi. Vui lòng thử lại. Nếu vấn đề vẫn tiếp diễn, bạn có thể liên hệ với tôi."
 		},
 		"my_contact_info": [
 			{
 				"name": "address",
-				"title": "🚀 ADDRESS",
-				"desc": "123 Main Street, New York, NY 10001"
+				"title": "🚀 ĐỊA CHỈ",
+				"desc": "Đồng Nai, Việt Nam"
 			},
 			{
 				"name": "email",
 				"title": "💌 EMAIL",
-				"desc": "example@example.com"
+				"desc": "contact@dntv.vn"
 			},
 			{
 				"name": "phone",
 				"title": "☎️ PHONE",
-				"desc": "+88 123 456 789"
+				"desc": "+84 858 088 050"
 			},
 			{
 				"name": "working_hours",
-				"title": "🕒 WORKING HOURS",
-				"desc": "Mon - Fri: 9:00 - 19:00"
+				"title": "🕒 THỜI GIAN LÀM VIỆC",
+				"desc": "Thứ 2 - Thứ 7: 9:00 - 17:00"
 			},
 			{
 				"name": "socials",
-				"title": "👋 SOCIALS"
+				"title": "👋 MẠNG XÃ HỘI"
 			}
 		]
 	},
 	"document_page": {
 		"enable": true,
 		"uri": "/documents",
-		"title": "Documents",
-		"sub_title": "Read and share new perspectives on just about any topic. Everyone’s welcome."
+		"title": "Tài liệu",
+		"sub_title": "Đọc và chia sẻ những quan điểm mới về bất kỳ chủ đề nào. Mọi người đều được chào đón."
 	},
 	"cookies_policy_page": {
 		"uri": "#"
 	},
 	"privacy_policy_page": {
 		"uri": "/privacy-policy",
-		"title": "Privacy Policy"
+		"title": "Chính sách bảo mật"
 	},
 	"empty_state": {
 		"title": "No results found.",
-		"description": "We couldn’t find any results. Try for something else."
+		"description": "Chúng tôi không thể tìm thấy bất kỳ kết quả nào. Hãy thử một cái gì đó khác."
 	},
 	"discussion_settings": {
 		"enable": true,
