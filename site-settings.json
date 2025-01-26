@@ -274,7 +274,7 @@
 	"general_settings": {
 		"timeFormat": "h:mm a",
 		"language": "en",
-		"timezone": "auto",
+		"timezone": "Asia/Ho_Chi_Minh",
 		"dateFormat": "M j, Y"
 	}
 }
